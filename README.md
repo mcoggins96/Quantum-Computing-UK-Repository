@@ -4,7 +4,7 @@ This repository contains all of the code found in the quantum computing tutorial
 
 It is divided in to the following folders: 
 
--Basic: Low level programs such as demonstration of quantum logic gates
+- Basic: Low level programs such as demonstration of quantum logic gates
 - Advanced: More advanced algorithms such as Shors, Grovers, Quantum Fourier Transform etc
 - Quantum Error Correction: Programs concerning quantum error correction
 - Quantum Machine Learning: Machine learning examples such as Quantum Support Vector Machine (QSVM)
