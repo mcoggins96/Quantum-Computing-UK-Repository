@@ -1,4 +1,4 @@
-# Quantum-Computing-UK-Repository
+# Quantum Computing UK Repository
 
 This repository contains all of the Qiskit code found in the quantum computing tutorials at : https://quantumcomputinguk.org. 
 
