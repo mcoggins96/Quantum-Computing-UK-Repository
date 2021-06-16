@@ -8,6 +8,9 @@ https://quantumcomputinguk.org/tutorials/performing-addition-on-ibms-quantum-com
 CNOT.py
 https://quantumcomputinguk.org/tutorials/controlled-not-gate-program
 
+N-Qubit-CNOT.py
+https://quantumcomputinguk.org/tutorials/n-qubit-cnot-gate-in-qiskit-with-code
+
 Dwave.py 
 https://quantumcomputinguk.org/tutorials/getting-started-with-d-waves-systems
 
