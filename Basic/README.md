@@ -11,9 +11,6 @@ https://quantumcomputinguk.org/tutorials/controlled-not-gate-program
 N-Qubit-CNOT.py
 https://quantumcomputinguk.org/tutorials/n-qubit-cnot-gate-in-qiskit-with-code
 
-Dwave.py 
-https://quantumcomputinguk.org/tutorials/getting-started-with-d-waves-systems
-
 Hello world.py
 https://quantumcomputinguk.org/tutorials/hello-world-program
 
