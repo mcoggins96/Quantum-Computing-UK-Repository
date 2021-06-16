@@ -16,3 +16,6 @@ https://quantumcomputinguk.org/tutorials/quantum-fourier-transform-in-qiskit
 
 Shors algorithm.py
 https://quantumcomputinguk.org/tutorials/shors-algorithm-with-code
+
+Superdense coding.py
+https://quantumcomputinguk.org/tutorials/superdense
