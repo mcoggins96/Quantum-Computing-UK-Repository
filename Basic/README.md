@@ -16,3 +16,6 @@ https://quantumcomputinguk.org/tutorials/hello-world-program
 
 Realtimeinfo.py
 https://quantumcomputinguk.org/tutorials/getting-real-time-information-on-ibm-quantum-devices
+
+Permutations.py
+https://quantumcomputinguk.org/tutorials/creating-qubit-permutations-in-qiskit-with-code
