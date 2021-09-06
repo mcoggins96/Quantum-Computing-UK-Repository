@@ -8,6 +8,9 @@ https://quantumcomputinguk.org/tutorials/modelling-probability-distributions-in-
 Grovers Algorithm.py
 https://quantumcomputinguk.org/tutorials/grovers-algorithm-with-code
 
+LEGrovers.py
+https://quantumcomputinguk.org/tutorials/solving-boolean-expressions-using-grovers-search-in-qiskit-with-code
+
 Phase_estimation.py
 https://quantumcomputinguk.org/tutorials/quantum-phase-estimation-with-code
 
