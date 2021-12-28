@@ -11,6 +11,9 @@ https://quantumcomputinguk.org/tutorials/grovers-algorithm-with-code
 LEGrovers.py
 https://quantumcomputinguk.org/tutorials/solving-boolean-expressions-using-grovers-search-in-qiskit-with-code
 
+TTGrovers.py
+https://quantumcomputinguk.org/tutorials/truth-tables-with-grovers-search-in-qiskit
+
 Phase_estimation.py
 https://quantumcomputinguk.org/tutorials/quantum-phase-estimation-with-code
 
