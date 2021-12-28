@@ -7,6 +7,11 @@ A simple program that puts one qubit in to superposition and measures its state
 
 Tutorial: https://quantumcomputinguk.org/tutorials/hadamardgate
 
+Bell States Program
+A simple program that generates all four Bell states
+
+Tutorial: https://quantumcomputinguk.org/tutorials/introduction-to-bell-states
+
 Controlled Hadamard Gate Program 
 A simple program that implements a Controlled Hadamard gate.  
 
