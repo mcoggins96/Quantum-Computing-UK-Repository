@@ -25,3 +25,6 @@ https://quantumcomputinguk.org/tutorials/shors-algorithm-with-code
 
 Superdense coding.py
 https://quantumcomputinguk.org/tutorials/superdense
+
+Rabi.py
+https://quantumcomputinguk.org/tutorials/introduction-to-rabi-oscillations-in-qiskit-with-code
