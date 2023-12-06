@@ -5,7 +5,7 @@ from qiskit import QuantumCircuit, execute,IBMQ
 from qiskit.tools.monitor import job_monitor
 from qiskit.aqua.components.uncertainty_models import NormalDistribution,UniformDistribution,LogNormalDistribution
 
-IBMQ.enable_account('Enter API key')
+IBMQ.enable_account('Enter API key') #Key can be obtained from IBM Quantum
 provider = IBMQ.get_provider(hub='ibm-q')
 
 backend = provider.get_backend('ibmq_qasm_simulator')
